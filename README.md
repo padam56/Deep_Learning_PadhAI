@@ -1,5 +1,7 @@
 # **PadhAI: Deep Learning Course**
 
+- I am still working on this notebook. 
+
 This repository contains the theoretical summary of concepts and practical implementation of the topics covered in the course I did on **Deep Learning** from [**PadhAI - One Fourth Labs**](https://padhai.onefourthlabs.in/courses/dl-feb-2019) taught by IIT Madras faculty.
 
 ![PadhAI](Images/padhai.png)
